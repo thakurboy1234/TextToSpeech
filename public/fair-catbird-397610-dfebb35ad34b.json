@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fair-catbird-397610",
+  "private_key_id": "dfebb35ad34be172852300dbe3f9f398ce92f0e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9zHFBRRxFqzfK\n1z5dkeCSOMQocGQo4BSFI5IyQdLF5s847pk9zbZX+u20/OG7TBBRCODHAD3QV3qS\ngv3LR8zQQPnzPmmvAMTcvCH1fdMu7gt/TJ7+fSapj16wdhqZLbdx+n28kG6qfvFs\n3eLULu3M3LS7iCBPRGk3VD4nygEZNZVAg8radty/RzT8TnDDQ1kVXHOSW/yIry1U\nOZh+nw2nUPQEW+iesUKIisI8ySeT926jf8/lNpj2ErtSoRRUFVd0Acj8h2caNePu\naJtQ4McC1E6UxCdW4GNpiTI/dIOzlsDxTCspX3Qg8C+nIuYAEywbOgPAMJjTfVAt\nB/LiEthvAgMBAAECggEAJZuvDVneYketBHpmFzBiqVaqN8Edd6P/LOqBe4fjdedo\nREWzA7YRXZmRJH2/VNebnBMARy5bET9kQEfIdlFB2jolzPcfBdhHKd31dKl8AR6W\nFKFgF9lAofSQtLKSTqvqX6Fc7NJJu2rv97x3x8eMwz0wasBsdoh9uMLulf/G+/F0\nQgmyDZp3lFz+qUqdFij6SJ1JdcdqeKJ9Nh6kkMQPtyyW7IOPBPvz2rIcTv3S06HN\nA5VvPvmAH094bruSsHehSyeamm+H83X9qJcDCKJfae4X9oUdJBMOKpeKqac6jvDk\nCAFdP14h1L+aJDPgwNskBicQLVlvYqrFQK3iJcBpIQKBgQD19fxabditTQgDPdV7\nZHEbhVf/EqxMRl93Igdp2SlkFdmum2fgpatg2tjHHzWGQesBzWSMzisvJvUf6obK\npHNpQCZJ83/SsSOIwxGsz/mZeU8txSAlLZWHODEEWfP/70T/RUCbk7Hnjz/Y304k\nrVwWHABNN98dURGMA6AwuxsQJwKBgQDFi5/DjOX/hqikPA/gvBq89aEjBXwIu33D\n+8oe4xx4BgGeaiBlU0q0Z0d39ZhTWC/RYzUH8PuU2PDm3baqwTXxxmPhFvHZCI4s\nrF8FiTHF4J/IcWODLsTXvpP3Je2Q2nLlQc0VbNf9CYTVWGjnPMu6dhOetd08qSKh\nb/UWkqHaeQKBgQCX18t53DSXEGYw8hx4N9LoBZMEoneCAzPubTCcdPdrlV20wLYJ\nZt19Rr3rd+XoQ4ucqjs3/hOE4Y0UrgmW0p15TaQVpWC1JqxkQuEHicFysQRjoj2t\nFg4o01TXddz/lKxI120CXtTGupXVAk7Qr8GY2KKLCUIRbDnj8V0UmH4lowKBgQCV\neuTGvTxg0c2UkRpWrR/yck+fR4wms3EkNsgn/STSsYDSFW40HgW+YxRScpX0Ixvz\n7oT3YGOOq2YG3ChYJ2GhdMSpU4pn9zBWH4y7jKgMGr/tldd+MYqj0kL21k1gudwN\nHHCKUNVTVLueEIs4xulGTAjmpKknOLjKvgQQM56jyQKBgEZ4X0DuuNEpCuGb8KQ5\ngWnNaVNSvbKdj02AIAC7Ns+XsWMI/rXcV7bsnXKP4eWMxK11yl+ZZ60CibKuG02b\nClLI52ChhR9H0dxGhSwIy5qm8TsGBXvlqY1M5Ee7Jqcjhjm3DdYep8bgwG45bsQw\ni3SxtgJ6xsVZ65+QM2Pg+TFD\n-----END PRIVATE KEY-----\n",
+  "client_email": "texttospeechdemo@fair-catbird-397610.iam.gserviceaccount.com",
+  "client_id": "108103635352515260772",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/texttospeechdemo%40fair-catbird-397610.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
